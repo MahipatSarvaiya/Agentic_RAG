@@ -1,2 +1,2 @@
 # Agentic_RAG
-one of my production ready project
+An Enterprise IT Support Copilot built with Agentic RAG. Features LangGraph orchestration, LLM evidence grading, web search fallback, and a FastAPI backend.
